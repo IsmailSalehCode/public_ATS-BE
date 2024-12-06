@@ -10,7 +10,6 @@
 # Documentation [BG]
 [Дипломна работа; ATS; Исмаил Салех.pdf](https://github.com/user-attachments/files/18040853/ATS.pdf)
 
-
 # Questions by the Examining Committee
 ### 1. What if a construction-site worker doesn't check-out / makes two identical entries?
 
@@ -34,12 +33,14 @@ Applying the correction is simple:
 - We choose to either Add, Edit or Delete an Attendance Entry.
 ![ATE Actions](https://github.com/user-attachments/assets/9caac3ca-2f87-4316-b00a-d668c17e496e)
 
+
 ### 2. Passwords are hashed, but is user data kept pure in transit and at rest? If so, how does this meet GDPR requirements?
 
 **Answer**: All data transmitted between the client and the server is protected via HTTPS. In the thesis documentation, we see that the first non-functional requirement for the backend covers exactly this.
 ![HTTPS](https://github.com/user-attachments/assets/cb9a8a12-06ce-4954-8917-3ce7ce877e28)
 Currently, only passwords and password reset tokens are hashed. It is also a good practice not to store other data, particularly PII, in its raw form (e.g. phone numbers and email addresses).
-When signing an employment contract, construction workers and managers agree to their data being stored and processed by their employers for the company's business purposes. It would be a good idea to add additional notices.
+When signing an employment contract, construction workers and managers agree to their data being stored and processed by their employers for the company's business purposes. It would be a good idea to add additional notices in ATS frontend actors.
+
 
 ### 3. Can we consider a global errorhandler for Vue.js so that we don't have to catch errors with try-catch blocks?
 
