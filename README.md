@@ -14,7 +14,7 @@
 # Questions by the Examining Committee
 ### 1. What if a construction-site worker doesn't check-out / makes two identical entries?
 
-**Answer**: If a worker does not check out, the next time they come in, they will probably press `Starting or resuming work`. They will receive the following warning: `You made the same selection twice in a row! Contact a sys admin or your employer if you made a mistake.`.
+**Answer**: If a worker does not check out, the next time they come in, they will probably press `Starting/Resuming work`. They will receive the following warning: `You made the same selection twice in a row! Contact a sys admin or your employer if you made a mistake.`.
 
 If the worker follows the instructions, a user of the web platform can easily add the missing record. The need for corrections was foreseen during the development of the system.
 
