@@ -30,7 +30,8 @@ As you can see, it is in the employee's interest to report their mistake. Otherw
 
 Applying the correction is simple:
 - We open the Attendance Entries dialog from the Dashboard.
-![Open Attendance Entries](https://github.com/user-attachments/assets/999a988a-c1bb-4a1b-8236-0483c479f71e)
+![Open Attendance Entries](https://github.com/user-attachments/assets/36eda085-3df4-4f05-9968-fcde07c766ea)
+
 - We choose to either Add, Edit or Delete an Attendance Entry.
 ![ATE Actions](https://github.com/user-attachments/assets/9caac3ca-2f87-4316-b00a-d668c17e496e)
 
