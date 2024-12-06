@@ -1,5 +1,15 @@
+# Architecture
+![BE](https://github.com/user-attachments/assets/1d8ee602-a534-44b2-a0a7-875329701965)
+![ER](https://github.com/user-attachments/assets/e0d99c85-82a6-4139-88af-e90439e61c30)
+
+
+# Presentation
+[ATS.pptx](https://github.com/user-attachments/files/18040857/ATS.pptx)
+
+
 # Documentation [BG]
 [Дипломна работа; ATS; Исмаил Салех.pdf](https://github.com/user-attachments/files/18040853/ATS.pdf)
+
 
 # Questions by the Examining Committee
 ### 1. What if a construction-site worker doesn't check-out / makes two identical entries?
@@ -34,13 +44,3 @@ When signing an employment contract, construction workers and managers agree to 
 ### 3. Can we consider a global errorhandler for Vue.js so that we don't have to catch errors with try-catch blocks?
 
 **Answer**: We could consider a global errorhandler `Vue.config.errorHandler`. However I prefer the precision, flexibility and readability of try-catch-finally blocks. Although I don't use a global errorhandler, I reuse logic by importing errHandler files.
-
-
-# Presentation
-[ATS.pptx](https://github.com/user-attachments/files/18040857/ATS.pptx)
-
-
-# Architecture
-![BE](https://github.com/user-attachments/assets/1d8ee602-a534-44b2-a0a7-875329701965)
-![ER](https://github.com/user-attachments/assets/e0d99c85-82a6-4139-88af-e90439e61c30)
-
