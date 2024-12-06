@@ -9,9 +9,11 @@
 If the worker follows the instructions, a user of the web platform can easily add the missing record. The need for corrections was foreseen during the development of the system.
 
 If the worker does not notify anyone, a user of the web platform is notified. When opening the Total Work Durations report, the worker's name will be followed by `has X INVALID entries!`. In the example below, two "Start/Continue Work" entries have been created by Khaled, one after the other:
+
 ![Worker made a mistake](https://github.com/user-attachments/assets/4eebcd93-c95d-4aca-98bb-f4c5a0be08a4)
 
 The following line appears in the Total Work Durations report:
+
 ![Discrepency detected](https://github.com/user-attachments/assets/4d41ccff-4930-46d0-9525-866c67e04edd)
 
 As you can see, it is in the employee's interest to report their mistake. Otherwise, the time they worked before making the mistake remains unaccounted for.
