@@ -10,6 +10,7 @@
 # Documentation [BG]
 [Дипломна работа; ATS; Исмаил Салех.pdf](https://github.com/user-attachments/files/18040853/ATS.pdf)
 
+
 # Questions by the Examining Committee
 ### 1. What if a construction-site worker doesn't check-out / makes two identical entries?
 
