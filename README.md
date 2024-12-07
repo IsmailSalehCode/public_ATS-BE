@@ -10,7 +10,7 @@ This repository has the code for one of three software products developed for an
 
 <p><a href="https://github.com/IsmailSalehCode/public_ATS-BE">Back end</a>- the core of ATS. A Node.js app, which communicated with a MySQL database using Sequelize ORM. Both the back-end application and the website are hosted on the same shared-hosting server.</p><br>
 
-# BE Architecture
+# ATS-BE Architecture
 ![BE](https://github.com/user-attachments/assets/1d8ee602-a534-44b2-a0a7-875329701965)
 ![ER](https://github.com/user-attachments/assets/e0d99c85-82a6-4139-88af-e90439e61c30)
 
