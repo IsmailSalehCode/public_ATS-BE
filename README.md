@@ -8,7 +8,7 @@ This repository has the code for one of three software products developed for an
   <li>Execute CRUD operations on data (attendance-tracked personnel, attendance tracking tags, kiosks & attendance entries).</li>
   <li>Users with higher-level authorization (admins) can manage the platform's users through additional CRUD operations.</li></ul></p>
 
-<p style="color:green"><a href="https://github.com/IsmailSalehCode/public_ATS-BE">Back end</a>- the core of ATS. A Node.js app, which communicates with a MySQL database using Sequelize ORM. Both the back-end application and the website are hosted on the same shared-hosting server.</p><br>
+<p style="color: black; text-decoration: underline;text-decoration-style: dotted;"><a href="https://github.com/IsmailSalehCode/public_ATS-BE">Back end</a>- the core of ATS. A Node.js app, which communicates with a MySQL database using Sequelize ORM. Both the back-end application and the website are hosted on the same shared-hosting server.</p><br>
 
 # ATS-BE Architecture
 ![BE](https://github.com/user-attachments/assets/1d8ee602-a534-44b2-a0a7-875329701965)
