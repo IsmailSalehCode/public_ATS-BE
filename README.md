@@ -6,7 +6,7 @@ This repository has the code for one of three software products developed for an
 <p><a href="https://github.com/IsmailSalehCode/public_ATS-FE">A website</a> for authenticated personnel to: 
   <ul><li>Specify a time frame and analyze workers' total work durations.</li>
   <li>Execute CRUD operations on data (attendance-tracked personnel, attendance tracking tags, kiosks & attendance entries).</li>
-  <li>Users with higher-level authorization (admins) can manage the platform's users through additional CRUD operations.</li></ul></p>
+  <li>Manage the platform's users through additional CRUD operations. This requires a higher-level of authorization.</li></ul></p>
 
 <p><a href="https://github.com/IsmailSalehCode/public_ATS-BE">Back end</a>- the core of ATS. A Node.js app, which communicates with a MySQL database using Sequelize ORM. Both the back-end application and the website are hosted on the same shared-hosting server.</p><br>
 
