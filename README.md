@@ -26,7 +26,7 @@ ER diagram:
 
 **Answer**: If a worker does not check out, the next time they come in, they will probably press `Starting/Resuming work`. They will receive the following warning: `You made the same selection twice in a row! Contact a sys admin or your employer if you made a mistake.`.
 
-If the worker follows the instructions, a user of the web platform can easily add the missing record. The need for corrections was foreseen during the development of the system.
+If the worker follows the instructions, a manager (user of the web platform) can easily add the missing record. The need for corrections was foreseen during the development of the system.
 
 If the worker does not notify anyone, a user of the web platform is notified. When opening the Total Work Durations report, the worker's name will be followed by `has X INVALID entries!`. In the example below, two "Start/Continue Work" entries have been created by Khaled, one after the other:
 
